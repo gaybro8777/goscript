@@ -7,7 +7,7 @@ the output in a self contained html file that can be run in the browser, to play
 It is based on [xterm.js](https://xtermjs.org/) project, with some hacks to disable the selection
 manager.
 
-The project is just a toy and is by far complete or without issues.
+The project is just a toy and is far to be complete, or without issues.
 
 Demo
 ====
